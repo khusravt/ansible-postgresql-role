@@ -1,3 +1,4 @@
+author: Khusrav Toshmatov
 Postgres [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/zzet/ansible-postgresql-role/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ========
 
